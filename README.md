@@ -3,13 +3,12 @@
 <h3 align="center">💭A passionate frontend developer from Beijing China🇨🇳</h3>
 
 - 🎉🎉🎉
-- 💻 一名有追求的前端开发工程师
-- 🏯 现居北京
+- 👨🏻‍💻 Programmers have to have their own soul
+- 🏯 Now living in Beijing
 - ✒️  CSDN: https://blog.csdn.net/weixin_42321819?spm=1011.2124.3001.5343
-- 📫 博客：https://liupeixin23.github.io/
+- 📫 Blog：https://liupeixin23.github.io/
 - ☎️  Tel: 17835698910
-- 📮 Email：17835698910@163.com 
-- 🧷 在工作之余，个人平常喜欢去户外跑步⛹️‍，也喜欢打篮球🏀，业余手游选手📱。
+- 📮 Email：17835698910@163.com
 
 
 
