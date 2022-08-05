@@ -7,7 +7,7 @@
 - 🏯 Now living in Beijing
 - ✒️  CSDN: https://blog.csdn.net/weixin_42321819?spm=1011.2124.3001.5343
 - 📫 Blog：https://liupeixin23.github.io/
-- ☎️  Tel: 17835698910
+- 📱 Tel: 17835698910 
 - 📮 Email：17835698910@163.com
 
 
